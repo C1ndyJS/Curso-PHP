@@ -36,9 +36,11 @@ Curso-PHP/
    ```
 3. Ejecuta los archivos PHP usando la terminal o el servidor local:
    ```bash
-   php ejercicios/ejemplo.php
-   ```
-
+   
+4. Para correr en local 
+```bash
+php -S localhost:8000
+```
 ## Recursos útiles
 
 - [Documentación oficial de PHP](https://www.php.net/manual/es/)
